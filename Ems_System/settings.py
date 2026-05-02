@@ -42,6 +42,7 @@
 # EXTERNAL_APPS = [
 #     'rest_framework',
 #     'corsheaders',
+
 # ]
 
 # INSTALLED_APPS.extend(EXTERNAL_APPS)
